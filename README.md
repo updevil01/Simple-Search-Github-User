@@ -1,5 +1,5 @@
 Simple Search Github User
 <br>
 Node + React
-<b>
+<br>
 Can dowload and test by yourown
